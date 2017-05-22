@@ -1,0 +1,1341 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/DZ02MIK2wMYEMeIQSMi3YL#"
+     xml:base="http://webprotege.stanford.edu/project/DZ02MIK2wMYEMeIQSMi3YL"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/DZ02MIK2wMYEMeIQSMi3YL"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8qQILwgeiPiBBQGMx2kudz -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8qQILwgeiPiBBQGMx2kudz">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasTittle</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90rV4oXY3oyMc5mbxFcJUT -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R90rV4oXY3oyMc5mbxFcJUT">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>Ground</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBNFcyh855OQmx8LP3LOdeE -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBNFcyh855OQmx8LP3LOdeE">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>Founded</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD0FXog8KhcGtlZjJguVW80 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RD0FXog8KhcGtlZjJguVW80">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>Manager</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rgzeu4D3xRNTd8urqC85HB -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/Rgzeu4D3xRNTd8urqC85HB">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>Nickname</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>French Football League 1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>English Barclays Premier League</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>German Bundesliga</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Spanish Primera Division</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Italian Serie A</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Turkish Super League</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R1O6dtococgHvkcSeg32lL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R1O6dtococgHvkcSeg32lL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Eintracht Frankfurt</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R2tIYeeLjOEOZ8tDXHXft -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R2tIYeeLjOEOZ8tDXHXft">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Cagliari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R57genUT0L8aOPMV0LQOml -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R57genUT0L8aOPMV0LQOml">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Napoli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5NelbPihBtErodJWFX7wp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R5NelbPihBtErodJWFX7wp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Granada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72MFdrhhV8HEjBYqS33ovS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R72MFdrhhV8HEjBYqS33ovS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Gençlerbirliği</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72c7915SQPL2tWYueqGbcS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R72c7915SQPL2tWYueqGbcS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Sampdoria</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R79tKNcWf7G9l0MiU3TVfGd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R79tKNcWf7G9l0MiU3TVfGd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Guingamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7HmSUC6o5a1TObWO25tlwm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7HmSUC6o5a1TObWO25tlwm">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Southampton</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7IYAfvEmzBaYBdPIPOVvY0 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7IYAfvEmzBaYBdPIPOVvY0">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>VfL Wolfsburg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Jwj1mlP7PePhs2sNeq4mB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Jwj1mlP7PePhs2sNeq4mB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dean Court</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1899</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eddie Howe</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Cherries</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Bournemouth</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7KqskY5DF3Jh0bhzZTusfa -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7KqskY5DF3Jh0bhzZTusfa">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="de">Allianz Arena</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1900</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="it">Carlo Ancelotti</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="de">Stern des Südens</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Bayern Munich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7UX22XGmQ3j94cQFUaDa2T -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7UX22XGmQ3j94cQFUaDa2T">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>West Ham United</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7V5R7RAfO1efJETJz59DVA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7V5R7RAfO1efJETJz59DVA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Werder Bremen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7XDv4H98kib59G31y5IZWo -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7XDv4H98kib59G31y5IZWo">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Chievo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7cNi0QKiPrB7xbSNuQl90K -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7cNi0QKiPrB7xbSNuQl90K">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>FSV Mainz 05</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7iHYOGR9X8nV3clhQpnthi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7iHYOGR9X8nV3clhQpnthi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Crotone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7is8DG3nRWw2CPV5bmtFhB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7is8DG3nRWw2CPV5bmtFhB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="tr">Vodafone Arena</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1903</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="tr">Şenol Güneş</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Şenol Güneş</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kara Kartal</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label xml:lang="tr">Beşiktaş</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7jqSk9OFWQldN7tYbgNBBH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7jqSk9OFWQldN7tYbgNBBH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>West Bromwich Albion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7klZ12SWkvrUATMIOTywSX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7klZ12SWkvrUATMIOTywSX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Darmstadt 98</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7nnOo60UCkvJAPBJTEVHyy -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7nnOo60UCkvJAPBJTEVHyy">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="tr">Kadıköy Şükrü Saraçoğlu Stadı</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1907</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="en">Dick Advocat</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="tr">Sarı Kanarya</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label xml:lang="tr">Fenerbahçe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ploDdMY9ERDyI1jvjVnsh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7ploDdMY9ERDyI1jvjVnsh">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Lorient</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7sE3MpQ6lzxltGPBr9JQmj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7sE3MpQ6lzxltGPBr9JQmj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Fiorentina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7sVWl3dbB60gEb49KH1aqm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7sVWl3dbB60gEb49KH1aqm">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>FC Köln</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7uIEjDmOJKJ6k1vHYVujat -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7uIEjDmOJKJ6k1vHYVujat">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stade Michel d&apos;Ornano</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1913</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patrice Garande</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stade Malherbe Caen</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Caen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R87ZqKaHLoTJQEDZKlYXBW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R87ZqKaHLoTJQEDZKlYXBW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Marseillea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R89ZijPxPIWWW83MrvRjYi8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R89ZijPxPIWWW83MrvRjYi8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="sp">Santiago Bernabéu Stadium</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE xml:lang="es">1902</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="fr">Zinedine Zidane</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blancos</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Real Madrid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ACIgcFvRpr919uX8L5de3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8ACIgcFvRpr919uX8L5de3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Rizespor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8IDOp8y7fx3DYNmijful3y -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8IDOp8y7fx3DYNmijful3y">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Karabükspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8IKvxEBISjddweWNyU8DNt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8IKvxEBISjddweWNyU8DNt">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Nancy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8LT4CDLUr9fHTLMDi5uSbW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8LT4CDLUr9fHTLMDi5uSbW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Swansea City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8QrJBjPTKmNUBlFxbHLzUR -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8QrJBjPTKmNUBlFxbHLzUR">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Stoke City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TU3Y77VqkFpXdNFwC3e5M -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8TU3Y77VqkFpXdNFwC3e5M">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="it">Stadio Atleti Azzurri d&apos;Italia</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE xml:lang="it">1907</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gian Piero Gasperini</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Dea</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Atalanta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8UjphoVpI2WwnoUknKeK6M -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8UjphoVpI2WwnoUknKeK6M">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Watford</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8YuyLiSxCYM86a098OpZvr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8YuyLiSxCYM86a098OpZvr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Deportivo La Coruña</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8bhJrUCwCfrvk3h75a6e8V -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8bhJrUCwCfrvk3h75a6e8V">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Málaga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8dKw2lsrKFy54ud6gcL0rd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8dKw2lsrKFy54ud6gcL0rd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Pescara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8fYCdyqQHWLxQw8aZ8LWxB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8fYCdyqQHWLxQw8aZ8LWxB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Espanyol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8hFW3VFf7zgGoDdog22U2f -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8hFW3VFf7zgGoDdog22U2f">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Lille</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R91XhFjmYzH6Zev11f4pcA1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R91XhFjmYzH6Zev11f4pcA1">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Nicea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R96Nr1mPkNB99I8Yd9qLVwZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R96Nr1mPkNB99I8Yd9qLVwZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Real Betis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9782G8N41IOTgrd0221Iv8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9782G8N41IOTgrd0221Iv8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Osmanlıspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9FCgtxEEBxhUno0LdvrY6Z -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9FCgtxEEBxhUno0LdvrY6Z">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Monaco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Ja4mdqQ0yUb41i9MVPeKe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9Ja4mdqQ0yUb41i9MVPeKe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Eibar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9WmyFcsRHgOO8FZNFVH0Gn -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9WmyFcsRHgOO8FZNFVH0Gn">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Bursaspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9X3GUIpa4bJ90fR9bbBUcx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9X3GUIpa4bJ90fR9bbBUcx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Genoa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9rzXiZQOsPkgUrukfj4eHo -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9rzXiZQOsPkgUrukfj4eHo">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Udinese</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9t98IVPYhkQxtGpsUAUXHv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9t98IVPYhkQxtGpsUAUXHv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emirates Stadium</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1886</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arsene Wenger</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Gunners</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label xml:lang="en">Arsenal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9u0qaBzDcKwKOOAZgTc3dv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9u0qaBzDcKwKOOAZgTc3dv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Antalyaspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB7MzYmG5iBXUMXWlCIbqLd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB7MzYmG5iBXUMXWlCIbqLd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Gaziantepspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB9NxflkvqK0pPfb5I9i8tG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB9NxflkvqK0pPfb5I9i8tG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>FC Ingolstadt</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB9qdr1ip2TsDraRYx2RS2U -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB9qdr1ip2TsDraRYx2RS2U">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Celta Vigo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBK5sr0kJxv8UjsIEyiHMa -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBK5sr0kJxv8UjsIEyiHMa">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Sevilla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W">
+        <rdfs:label>yes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQl6fNcsz3RylXyR76euAw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBQl6fNcsz3RylXyR76euAw">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>PSG</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBUyrqnzKtK3ZnGwgddBrtc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBUyrqnzKtK3ZnGwgddBrtc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Manchester United</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBXiQyzCwvcogHztiEE2Oak -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBXiQyzCwvcogHztiEE2Oak">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Osasuna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBhHfRpZyTsKdKALsMPT6bs -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBhHfRpZyTsKdKALsMPT6bs">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Real Sociedad</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBli4kFye4lOFqDWqAy3LQQ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBli4kFye4lOFqDWqAy3LQQ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Rennesa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBloJSIUVXg9hRNZXcTjTP5 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBloJSIUVXg9hRNZXcTjTP5">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Palermo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmm8MIPFQnJvQkHPpwCDlf -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBmm8MIPFQnJvQkHPpwCDlf">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Akhisar Bld.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBppK0dACmBqROZVB35ygC2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBppK0dACmBqROZVB35ygC2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label></rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBqzyGAudi4XhmlQRx03auW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBqzyGAudi4XhmlQRx03auW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Toulouse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBrJLj2befXM4zh3RR0xUd3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBrJLj2befXM4zh3RR0xUd3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Hamburger SV</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBraHZCS9hFShV1DJM8Wdr3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBraHZCS9hFShV1DJM8Wdr3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="fr">Stade Armand Cesari</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stade Armand Cesari</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rui Almeida</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I Turchini</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Bastia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBugOhMn4VfuGrEDotK3YCZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBugOhMn4VfuGrEDotK3YCZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>FC Augsburg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBxPrjI9PCMGVMtqUevZ0i -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBxPrjI9PCMGVMtqUevZ0i">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Kayserispor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RByUjhUL4yhii2K002FRllR -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RByUjhUL4yhii2K002FRllR">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Liverpool</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC4LBuGiGCYpSZeMrHXXUhO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC4LBuGiGCYpSZeMrHXXUhO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Torino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC5AbbzbJankZQ6oV3TC8xh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC5AbbzbJankZQ6oV3TC8xh">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Konyaspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC7WSHuSBMcIWYoIRIfGhHg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC7WSHuSBMcIWYoIRIfGhHg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Kasımpaşa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC7XS0d9weLp5cLPghNftDe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC7XS0d9weLp5cLPghNftDe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="tr">Türk Telekom Arena</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Igor Tudor</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aslan</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label xml:lang="tr">Galatasaray</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC8AHchFpCugt1ZgdD6Di64 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC8AHchFpCugt1ZgdD6Di64">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Milan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC8VcQU36d0OqjbmGrjkbD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC8VcQU36d0OqjbmGrjkbD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Manchester City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCmlqCOTM27xgjXsadBlTQ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCCmlqCOTM27xgjXsadBlTQ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Leicester City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCEl8k5Lo4H0PwqtjqbIBL1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCEl8k5Lo4H0PwqtjqbIBL1">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Villarreal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCKiqM8bbLN4IGtyii9SGQz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCKiqM8bbLN4IGtyii9SGQz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Borussia Mönchengladbach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCVp08Ate7zSSFSeWPACeNV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCVp08Ate7zSSFSeWPACeNV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wanda Metropolitano</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1903</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="es">Diego Simeone</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="es">Los Colchoneros</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label xml:lang="es">Atlético Madrid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCcK9XlwwFWBJFju3byaH0Y -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCcK9XlwwFWBJFju3byaH0Y">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Hertha BSC</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCe93NTcwlFXBhUhEuH7FA7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCe93NTcwlFXBhUhEuH7FA7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stade Gaston Gérard</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olivier Dall&apos;Oglio</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="fr">The Mustards</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Mustards</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Dijon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCeFZCCn3SRdQAkQjPthV99 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCeFZCCn3SRdQAkQjPthV99">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Roma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCf7lFl6NRTrlUBabPM5MuE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCf7lFl6NRTrlUBabPM5MuE">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stade Raymond Kopa</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1919</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stéphane Moulin</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Scoïstes</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Angers</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCwq925IRkBK7IA6GDCY1xI -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCwq925IRkBK7IA6GDCY1xI">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Athletic Bilbao</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDAiqDnS7bT1h5J68MypU8f -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDAiqDnS7bT1h5J68MypU8f">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stamford Bridge</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antonio Conte</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Blues</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Chelsea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDCCFUTOqNvfuWHZtE3mnv3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDCCFUTOqNvfuWHZtE3mnv3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>SC Freiburg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDCEJ6OnHbqcR9ldkgH5Opv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDCEJ6OnHbqcR9ldkgH5Opv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Middlesbrough</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDNMKlVFrxbJS5rz1yPId2e -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDNMKlVFrxbJS5rz1yPId2e">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Internazionale</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDRydBMxZfO8A91J5tFxN9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDRydBMxZfO8A91J5tFxN9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Nantes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDSkL2GLXHeegbIFEJ8XOtj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDSkL2GLXHeegbIFEJ8XOtj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Montpelliera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDUIioQ64iVKzEV51UNLWci -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDUIioQ64iVKzEV51UNLWci">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turf Moor</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1882</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sean Dyche</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Clarets</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Burnley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDVAHwZgMMyMcWPwFccSmmZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDVAHwZgMMyMcWPwFccSmmZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="de">Westfalenstadion</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1909</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="de">Thomas Tuchel</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="de">Die Schwarzgelben</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Borussia Dortmund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDXAlG7rVyz9FWwfjiauwcB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDXAlG7rVyz9FWwfjiauwcB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Everton</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDXuRhjnoYkcqEg4UQawEQS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDXuRhjnoYkcqEg4UQawEQS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Başakşehir FK</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDZaESQeSpiIPyfeBMQ3XRG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDZaESQeSpiIPyfeBMQ3XRG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Alanyaspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDkkGAm04H5GukMxVMfjyID -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDkkGAm04H5GukMxVMfjyID">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>TSG 1899 Hoffenheim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDktnnsX7NetiYdN1EXDbLL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDktnnsX7NetiYdN1EXDbLL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Las Palmas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFalJr82RSUs8UuCZOujJM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RFalJr82RSUs8UuCZOujJM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Valencia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RH4vt9NSxrWmfoh6auwTPG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RH4vt9NSxrWmfoh6auwTPG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>Schalke 04</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQ8YsHb2DXAZEQM8cFxAvH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RQ8YsHb2DXAZEQM8cFxAvH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="it">Stadio Renato Dall&apos;Ara</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1909</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto Donadoni</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="it">I Rossoblu</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Bologna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQq8jJ6wqkhGpmByCxDLtq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RQq8jJ6wqkhGpmByCxDLtq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selhurst Park</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sam Allardyce</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Eagles</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Crystal Palace</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RR1eYMv0Q9udUwkWXenJHw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RR1eYMv0Q9udUwkWXenJHw">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BayArena</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE xml:lang="de">1904</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tayfun Korkut</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="de">Die Werkself</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Bayer Leverkusen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RRV8hdI0jErNEt4b8RJfyE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RRV8hdI0jErNEt4b8RJfyE">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Lyon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUI3jHSpTQ34tFSwhfkbhF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RUI3jHSpTQ34tFSwhfkbhF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Adanaspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUi0NFqOdS49wc9Q1xZCVY -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RUi0NFqOdS49wc9Q1xZCVY">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9T5n7N6eKi4suAMGGlbeS6"/>
+        <rdfs:label>RB Leipzig</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RY2IUe6qoZN7ghpQRKHNe1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RY2IUe6qoZN7ghpQRKHNe1">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Sassuolo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RYOuSa4zF1qCcy0BgXAQ4p -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RYOuSa4zF1qCcy0BgXAQ4p">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Leganés</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RZEPgrLXVH204Z7BfP64i4">
+        <rdfs:label>No</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZdPCxlgNSa7YFbF0xKlo2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RZdPCxlgNSa7YFbF0xKlo2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Sunderland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RdyJfkbqpoTtQzRZCEuHye -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RdyJfkbqpoTtQzRZCEuHye">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Empoli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RfDUV5NsqSaFGtOX8XXUWW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RfDUV5NsqSaFGtOX8XXUWW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Sporting Gijón</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rho105PLYYiTecJOWWBVdl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rho105PLYYiTecJOWWBVdl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Tottenham Hotspur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RkuJaD36SEg8r4gWTbDd2a -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RkuJaD36SEg8r4gWTbDd2a">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <rdfs:label>Alavés</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rm0avi2owYUJkOEFKFrAQ1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rm0avi2owYUJkOEFKFrAQ1">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDQ1jY18OshUao9zNuk0qls"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT xml:lang="es">Camp Nou</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE xml:lang="es">1899</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 xml:lang="es">Luis Enrique</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="es">Blaugranes or Azulgranas</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Barcelona</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RmaTfUvlZzsqhg7ke2IhAR -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RmaTfUvlZzsqhg7ke2IhAR">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juventus Stadium</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1897</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimiliano Allegri</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB xml:lang="it">Fidanzata d&apos;Italia</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label xml:lang="it">Juventus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoHBLco1uw6eu4NajzS3uM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RoHBLco1uw6eu4NajzS3uM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SFkbrOGnkMulTN21vMCnO"/>
+        <rdfs:label>Hull City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoITUnIcSJGErEjGhwi0W9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RoITUnIcSJGErEjGhwi0W9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Metza</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoL0dHg48egnrAzS9d65i7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RoL0dHg48egnrAzS9d65i7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <webprotege:R8qQILwgeiPiBBQGMx2kudz rdf:resource="http://webprotege.stanford.edu/RBOeFgjWB9R4G1A4lYYoo2W"/>
+        <webprotege:R90rV4oXY3oyMc5mbxFcJUT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matmut Atlantique</webprotege:R90rV4oXY3oyMc5mbxFcJUT>
+        <webprotege:RBNFcyh855OQmx8LP3LOdeE rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1881</webprotege:RBNFcyh855OQmx8LP3LOdeE>
+        <webprotege:RD0FXog8KhcGtlZjJguVW80 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jocelyn Gourvennec</webprotege:RD0FXog8KhcGtlZjJguVW80>
+        <webprotege:Rgzeu4D3xRNTd8urqC85HB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Girondins</webprotege:Rgzeu4D3xRNTd8urqC85HB>
+        <rdfs:label>Bordeaux</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqWZoxP8seWHGN0SGrNyUX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RqWZoxP8seWHGN0SGrNyUX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeF4SpU0VvJcxxk0DBp0Fc"/>
+        <rdfs:label>Lazio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxBg51FrCvQxNOq3d9jRiR -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RxBg51FrCvQxNOq3d9jRiR">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Ru65kg3Das3Gb6tHZMFMQo"/>
+        <rdfs:label>Trabzonspor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RzVil9CoJnx3FpDkpMJrCX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RzVil9CoJnx3FpDkpMJrCX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7ZrcFKFNuclIi8vrUjqHgB"/>
+        <rdfs:label>Saint-Étienne</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
